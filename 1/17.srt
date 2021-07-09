@@ -5,7 +5,7 @@
 
 2
 00:00:05,464 --> 00:00:07,216
--¡Disculpe señorita!
+-Â¡Disculpe seÃ±orita!
 -Es Phoebe.
 
 3
@@ -15,12 +15,12 @@ Son mellizas.
 4
 00:00:08,592 --> 00:00:11,053
 Phoebe es Phoebe.
-¡Ursula está bien buena!
+Â¡Ursula estÃ¡ bien buena!
 
 5
 00:00:11,262 --> 00:00:14,974
 -Es para Ursula.
--Sí. Claro. Me queda.
+-SÃ­. Claro. Me queda.
 
 6
 00:00:15,182 --> 00:00:16,976
@@ -29,7 +29,7 @@ el control remoto.
 
 7
 00:00:19,562 --> 00:00:20,896
-¿Cómo hizo eso?
+Â¿CÃ³mo hizo eso?
 
 8
 00:00:21,105 --> 00:00:23,441
@@ -38,7 +38,7 @@ con Ursula.
 
 9
 00:00:23,691 --> 00:00:26,861
-¿Es tan horrible que él salga con ella?
+Â¿Es tan horrible que Ã©l salga con ella?
 
 10
 00:00:27,069 --> 00:00:29,321
@@ -47,8 +47,8 @@ con Ursula.
 
 11
 00:00:29,530 --> 00:00:32,366
--Se está enamorando de ella.
--Él no te va a abandonar.
+-Se estÃ¡ enamorando de ella.
+-Ã‰l no te va a abandonar.
 
 12
 00:00:32,575 --> 00:00:36,037
@@ -57,11 +57,11 @@ No es nada serio.
 
 13
 00:00:39,707 --> 00:00:41,667
-Sí. ¿Necesitas algo?
+SÃ­. Â¿Necesitas algo?
 
 14
 00:00:43,127 --> 00:00:44,628
-¡Rachel! ¡Rachel!
+Â¡Rachel! Â¡Rachel!
 
 15
 00:00:44,962 --> 00:00:47,089
@@ -70,17 +70,17 @@ Estoy bien, estoy bien.
 16
 00:00:54,764 --> 00:00:58,100
 Hola. Mi amiga estaba quitando las
-luces navideñas...
+luces navideÃ±as...
 
 17
 00:00:58,267 --> 00:01:00,936
-...y cayó del balcón
-y tal vez se fracturó un tobillo.
+...y cayÃ³ del balcÃ³n
+y tal vez se fracturÃ³ un tobillo.
 
 18
 00:01:01,103 --> 00:01:04,190
-Dios mío, ¿aún no han quitado
-las luces navideñas?
+Dios mÃ­o, Â¿aÃºn no han quitado
+las luces navideÃ±as?
 
 19
 00:01:05,483 --> 00:01:09,528
@@ -90,7 +90,7 @@ las luces navideñas?
 20
 00:01:15,117 --> 00:01:19,455
 A ver.
-Nombre, dirección...
+Nombre, direcciÃ³n...
 
 21
 00:01:20,372 --> 00:01:24,335
@@ -99,40 +99,40 @@ Nombre, dirección...
 
 22
 00:01:24,710 --> 00:01:27,755
--¿En serio?
--Sí.
+-Â¿En serio?
+-SÃ­.
 
 23
 00:01:28,005 --> 00:01:30,883
-¡Ay, qué tierna!
+Â¡Ay, quÃ© tierna!
 
 24
 00:01:32,051 --> 00:01:33,844
-Por Dios. Cómo te quiero.
+Por Dios. CÃ³mo te quiero.
 
 25
 00:01:34,095 --> 00:01:35,596
 Muy bien.
-¿Algún seguro?
+Â¿AlgÃºn seguro?
 
 26
 00:01:35,888 --> 00:01:38,808
-Ah, claro. Márcalo.
-¡Definitivamente quiero uno de esos!
+Ah, claro. MÃ¡rcalo.
+Â¡Definitivamente quiero uno de esos!
 
 27
 00:01:40,184 --> 00:01:43,437
--¿No tienes seguro?
--¿Por qué? ¿Cuánto va a costar?
+-Â¿No tienes seguro?
+-Â¿Por quÃ©? Â¿CuÃ¡nto va a costar?
 
 28
 00:01:43,604 --> 00:01:46,482
-No sé. ¡Pero serán 200 dólares por las
-radiografías solamente!
+No sÃ©. Â¡Pero serÃ¡n 200 dÃ³lares por las
+radiografÃ­as solamente!
 
 29
 00:01:46,649 --> 00:01:49,193
--¿Y qué vamos a hacer?
+-Â¿Y quÃ© vamos a hacer?
 -Hay muy poco que podamos hacer.
 
 30
@@ -146,16 +146,16 @@ A menos que use tu seguro.
 
 32
 00:01:58,285 --> 00:02:01,455
-¿A quién apunté para
+Â¿A quiÃ©n apuntÃ© para
 casos de emergencias?
 
 33
 00:02:01,664 --> 00:02:03,582
-Eso sería fraude al seguro.
+Eso serÃ­a fraude al seguro.
 
 34
 00:02:05,126 --> 00:02:10,131
-Bien, pues. Olvídalo.
+Bien, pues. OlvÃ­dalo.
 Mejor me voy a casa.
 
 35
@@ -170,7 +170,7 @@ Necesito otro juego de formularios.
 
 37
 00:02:20,975 --> 00:02:25,312
--¿Por qué?
+-Â¿Por quÃ©?
 -Porque soy muy bruta.
 
 38
@@ -181,55 +181,55 @@ estos documentos...
 39
 00:02:29,441 --> 00:02:32,987
 ...y en lugar de escribir
-sus datos escribí los míos.
+sus datos escribÃ­ los mÃ­os.
 
 40
 00:02:33,195 --> 00:02:35,447
-Sí eres muy bruta.
+SÃ­ eres muy bruta.
 
 41
 00:02:35,656 --> 00:02:39,869
-Sí, así soy yo.
+SÃ­, asÃ­ soy yo.
 Soy muy bruta.
 
 42
 00:02:41,245 --> 00:02:44,790
-Soñé que jugaba al fútbol
-con mi niño.
+SoÃ±Ã© que jugaba al fÃºtbol
+con mi niÃ±o.
 
 43
 00:02:44,999 --> 00:02:48,836
--Qué bien.
--No, no. Con él.
+-QuÃ© bien.
+-No, no. Con Ã©l.
 
 44
 00:02:51,755 --> 00:02:56,260
 Estaba en la cancha
-y me lanzaron el bebé.
+y me lanzaron el bebÃ©.
 
 45
 00:02:56,468 --> 00:03:01,390
-Tenía que hacer algo. ¡La defensa
-de Tampa se me venía encima!
+TenÃ­a que hacer algo. Â¡La defensa
+de Tampa se me venÃ­a encima!
 
 46
 00:03:01,599 --> 00:03:06,478
--El equipo de Tampa es pésimo.
--Lo sé, pero...
+-El equipo de Tampa es pÃ©simo.
+-Lo sÃ©, pero...
 
 47
 00:03:06,979 --> 00:03:11,775
-...estaba yo solo con el bebé
-y pensé que nos iban a ganar.
+...estaba yo solo con el bebÃ©
+y pensÃ© que nos iban a ganar.
 
 48
 00:03:13,027 --> 00:03:16,906
-¡Y lo lancé al otro lado!
+Â¡Y lo lancÃ© al otro lado!
 
 49
 00:03:17,114 --> 00:03:21,869
--¿Estás loco? ¡Era un bebé!
--¿Y es mejor que lo derriben?
+-Â¿EstÃ¡s loco? Â¡Era un bebÃ©!
+-Â¿Y es mejor que lo derriben?
 
 50
 00:03:24,955 --> 00:03:28,459
@@ -239,7 +239,7 @@ yo estaba en el otro lado.
 51
 00:03:28,667 --> 00:03:32,588
 Y veo que soy yo quien
-debe atrapar al bebé.
+debe atrapar al bebÃ©.
 
 52
 00:03:32,796 --> 00:03:35,507
@@ -249,35 +249,35 @@ a llegar a tiempo.
 53
 00:03:35,716 --> 00:03:39,470
 Y empiezo a correr.
-Luego desperté.
+Luego despertÃ©.
 
 54
 00:03:39,637 --> 00:03:43,098
-¿Ven? Eso es porque no estoy
+Â¿Ven? Eso es porque no estoy
 listo para ser padre.
 
 55
 00:03:43,307 --> 00:03:45,017
-Oye, todo saldrá bien.
+Oye, todo saldrÃ¡ bien.
 
 56
 00:03:45,226 --> 00:03:49,688
-Eres uno de los hombres más
+Eres uno de los hombres mÃ¡s
 cuidadosos que conozco.
 
 57
 00:03:50,314 --> 00:03:52,149
-Serás un excelente papá.
+SerÃ¡s un excelente papÃ¡.
 
 58
 00:03:52,399 --> 00:03:55,986
-Sí, tú y el bebé tan solo
+SÃ­, tÃº y el bebÃ© tan solo
 necesitan una buena defensa.
 
 59
 00:03:59,323 --> 00:04:03,244
-¿Han ido a cenar al Rainbow Room?
-¿Es muy caro?
+Â¿Han ido a cenar al Rainbow Room?
+Â¿Es muy caro?
 
 60
 00:04:03,452 --> 00:04:06,330
@@ -285,31 +285,31 @@ Bueno, solamente si pides algo.
 
 61
 00:04:06,664 --> 00:04:09,750
-Esta noche saldré con Ursula.
-Es su cumpleaños.
+Esta noche saldrÃ© con Ursula.
+Es su cumpleaÃ±os.
 
 62
 00:04:09,959 --> 00:04:13,087
--¿Y la fiesta de Phoebe?
--¿Cuándo es?
+-Â¿Y la fiesta de Phoebe?
+-Â¿CuÃ¡ndo es?
 
 63
 00:04:14,672 --> 00:04:19,677
 -Esta noche.
--¿Qué opinan de esa coincidencia?
+-Â¿QuÃ© opinan de esa coincidencia?
 
 64
 00:04:21,178 --> 00:04:23,180
-Tómate tu tiempo.
+TÃ³mate tu tiempo.
 
 65
 00:04:28,519 --> 00:04:30,854
-¡Anda, ya acertó!
+Â¡Anda, ya acertÃ³!
 
 66
 00:04:33,899 --> 00:04:36,735
--¿Y qué vas a hacer?
--¿Qué puedo hacer?
+-Â¿Y quÃ© vas a hacer?
+-Â¿QuÃ© puedo hacer?
 
 67
 00:04:36,944 --> 00:04:39,530
@@ -318,36 +318,36 @@ con Ursula.
 
 68
 00:04:39,697 --> 00:04:40,864
-¿Y tu amiga Phoebe?
+Â¿Y tu amiga Phoebe?
 
 69
 00:04:41,031 --> 00:04:44,952
-Si es mi amiga, me comprenderá.
-¿No lo creen?
+Si es mi amiga, me comprenderÃ¡.
+Â¿No lo creen?
 
 70
 00:04:45,160 --> 00:04:47,538
 Hombre, si hicieras eso en mi
-cumpleaños...
+cumpleaÃ±os...
 
 71
 00:04:47,746 --> 00:04:51,041
-...te las verías ante un
-puño bastante agitado.
+...te las verÃ­as ante un
+puÃ±o bastante agitado.
 
 72
 00:04:54,169 --> 00:04:56,672
-El azafrán lo mejora todo
+El azafrÃ¡n lo mejora todo
 y hace la diferencia.
 
 73
 00:04:59,550 --> 00:05:03,595
--Bien. ¿Monica?
--Sí.
+-Bien. Â¿Monica?
+-SÃ­.
 
 74
 00:05:04,054 --> 00:05:08,726
--Sí, es ella.
+-SÃ­, es ella.
 -Hola. Ella es mi amiga Rachel.
 
 75
@@ -357,13 +357,13 @@ y hace la diferencia.
 
 76
 00:05:14,023 --> 00:05:17,151
--¿No eres muy guapo para ser médico?
--¿Disculpa?
+-Â¿No eres muy guapo para ser mÃ©dico?
+-Â¿Disculpa?
 
 77
 00:05:17,359 --> 00:05:22,823
-Dios mío. Joven, joven. Quise decir
-joven para ser doctor. Qué bien, Rach.
+Dios mÃ­o. Joven, joven. Quise decir
+joven para ser doctor. QuÃ© bien, Rach.
 
 78
 00:05:23,032 --> 00:05:24,700
@@ -377,13 +377,13 @@ Y eso fue todo
 
 80
 00:05:36,920 --> 00:05:41,008
--No incluiste la parte estúpida.
--No fue estúpida.
+-No incluiste la parte estÃºpida.
+-No fue estÃºpida.
 
 81
 00:05:41,175 --> 00:05:45,512
-Los muy lindos médicos nos invitaron
-a salir mañana y acepté.
+Los muy lindos mÃ©dicos nos invitaron
+a salir maÃ±ana y aceptÃ©.
 
 82
 00:05:45,763 --> 00:05:49,016
@@ -398,16 +398,16 @@ lugar de los hechos.
 84
 00:05:52,770 --> 00:05:56,857
 -Debemos cancelar.
--¿Qué? Son muy guapos.
+-Â¿QuÃ©? Son muy guapos.
 
 85
 00:05:57,066 --> 00:06:00,819
-Son médicos. Médicos lindos.
-Médicos que son lindos.
+Son mÃ©dicos. MÃ©dicos lindos.
+MÃ©dicos que son lindos.
 
 86
 00:06:01,028 --> 00:06:03,947
-Muy bien, ¿y qué hemos aprendido
+Muy bien, Â¿y quÃ© hemos aprendido
 hasta ahora?
 
 87
@@ -416,22 +416,22 @@ Ay, Dios.
 
 88
 00:06:12,915 --> 00:06:14,500
-¡Sorpresa!
+Â¡Sorpresa!
 
 89
 00:06:21,757 --> 00:06:25,135
-¿Qué diablos hacen?
-¡Me dieron un gran susto!
+Â¿QuÃ© diablos hacen?
+Â¡Me dieron un gran susto!
 
 90
 00:06:26,387 --> 00:06:31,225
--¿Era el pastel?
--Sí. Un amasijo de limón.
+-Â¿Era el pastel?
+-SÃ­. Un amasijo de limÃ³n.
 
 91
 00:06:31,433 --> 00:06:33,977
 Vamos.
-Ella está por llegar.
+Ella estÃ¡ por llegar.
 
 92
 00:06:34,144 --> 00:06:36,563
@@ -439,7 +439,7 @@ Espero que quede bien.
 
 93
 00:06:40,109 --> 00:06:43,028
-"Feliz Cumpleaños, Peehee".
+"Feliz CumpleaÃ±os, Peehee".
 
 94
 00:06:43,821 --> 00:06:46,532
@@ -453,17 +453,17 @@ instrumentos especiales.
 
 96
 00:06:49,660 --> 00:06:51,870
--Oigan, ¿qué ocurre?
--Solo estábamos...
+-Oigan, Â¿quÃ© ocurre?
+-Solo estÃ¡bamos...
 
 97
 00:06:52,079 --> 00:06:54,164
-¡Sorpresa!
+Â¡Sorpresa!
 
 98
 00:06:57,084 --> 00:07:02,381
-¡Es fantástico! ¡Dios mío!
-Y no me asusté siquiera.
+Â¡Es fantÃ¡stico! Â¡Dios mÃ­o!
+Y no me asustÃ© siquiera.
 
 99
 00:07:02,548 --> 00:07:05,551
@@ -472,56 +472,56 @@ Betty, hola.
 
 100
 00:07:05,676 --> 00:07:08,971
-¡Hallaron a Betty!
-Qué bien. ¡Excelente!
+Â¡Hallaron a Betty!
+QuÃ© bien. Â¡Excelente!
 
 101
 00:07:09,221 --> 00:07:14,518
-Todos mis amigos queridos están
-aquí. ¿Dónde está Joey?
+Todos mis amigos queridos estÃ¡n
+aquÃ­. Â¿DÃ³nde estÃ¡ Joey?
 
 102
 00:07:17,187 --> 00:07:18,814
-¿Viste a Betty?
+Â¿Viste a Betty?
 
 103
 00:07:29,241 --> 00:07:33,579
-Les diré que me gustaría estar en el
+Les dirÃ© que me gustarÃ­a estar en el
 negocio de los tomates secos.
 
 104
 00:07:33,787 --> 00:07:38,625
-Hace cinco años, si me hubieran
+Hace cinco aÃ±os, si me hubieran
 hablado de "tomates secos como pasas"...
 
 105
 00:07:38,834 --> 00:07:41,503
 ...les hubiera dicho:
-"¡Váyanse al diablo!"
+"Â¡VÃ¡yanse al diablo!"
 
 106
 00:07:44,089 --> 00:07:46,967
-Papá, ¿sentiste miedo antes
+PapÃ¡, Â¿sentiste miedo antes
 de que yo naciera?
 
 107
 00:07:47,176 --> 00:07:51,180
-¡No estoy asustado! Pero si
+Â¡No estoy asustado! Pero si
 alguien viene y me dice...
 
 108
 00:07:51,346 --> 00:07:55,684
-Papá, papá. Me refiero a todos los
+PapÃ¡, papÃ¡. Me refiero a todos los
 aspectos de ser padre.
 
 109
 00:07:55,893 --> 00:07:58,729
-¿Alguna vez sentiste ese...
+Â¿Alguna vez sentiste ese...
 
 110
 00:07:59,021 --> 00:08:03,066
-...pánico como:
-"¡Dios mío, voy a ser padre!"
+...pÃ¡nico como:
+"Â¡Dios mÃ­o, voy a ser padre!"
 
 111
 00:08:03,650 --> 00:08:05,277
@@ -535,12 +535,12 @@ Yo estaba ocupado con el negocio.
 113
 00:08:08,947 --> 00:08:12,993
 No estuve mucho por esos lados.
-¿De eso se trata esto?
+Â¿De eso se trata esto?
 
 114
 00:08:13,202 --> 00:08:14,995
 No, no.
-Papá, sólo me preguntaba.
+PapÃ¡, sÃ³lo me preguntaba.
 
 115
 00:08:15,162 --> 00:08:18,624
@@ -550,12 +550,12 @@ Podemos hacer cosas juntos.
 116
 00:08:18,874 --> 00:08:23,879
 Siempre quisiste ir a la colonia
-Williamsburg. ¿Qué tal si hacemos eso?
+Williamsburg. Â¿QuÃ© tal si hacemos eso?
 
 117
 00:08:24,087 --> 00:08:28,634
-No, gracias, papá.
-Es que solamente quería...
+No, gracias, papÃ¡.
+Es que solamente querÃ­a...
 
 118
 00:08:29,301 --> 00:08:31,553
@@ -563,18 +563,18 @@ Necesitaba saber...
 
 119
 00:08:31,762 --> 00:08:35,349
-...cuándo empezaste a
+...cuÃ¡ndo empezaste a
 sentirte como un padre.
 
 120
 00:08:36,350 --> 00:08:41,188
-Bueno. Creo que fue el día
-después de que naciste.
+Bueno. Creo que fue el dÃ­a
+despuÃ©s de que naciste.
 
 121
 00:08:41,730 --> 00:08:45,150
-Estábamos en la sala de la
-hospital, tu madre dormía...
+EstÃ¡bamos en la sala de la
+hospital, tu madre dormÃ­a...
 
 122
 00:08:45,359 --> 00:08:48,904
@@ -583,12 +583,12 @@ que pudiera verte.
 
 123
 00:08:49,112 --> 00:08:52,533
-Eras un pequeño bulto rojo feo.
+Eras un pequeÃ±o bulto rojo feo.
 
 124
 00:08:52,741 --> 00:08:56,954
 De repente me tomaste de un
-dedo con tu puño...
+dedo con tu puÃ±o...
 
 125
 00:08:57,204 --> 00:08:58,914
@@ -604,7 +604,7 @@ Y entonces lo supe.
 
 128
 00:09:07,548 --> 00:09:10,842
-¿Entonces no quieres ir a Williamsburg?
+Â¿Entonces no quieres ir a Williamsburg?
 
 129
 00:09:13,554 --> 00:09:15,847
@@ -612,12 +612,12 @@ Podemos ir a Williamsburg.
 
 130
 00:09:16,974 --> 00:09:19,184
-Cómete el pescado.
+CÃ³mete el pescado.
 
 131
 00:09:22,896 --> 00:09:26,984
--¡Rachel, llegaron los médicos!
--Está bien, ya voy.
+-Â¡Rachel, llegaron los mÃ©dicos!
+-EstÃ¡ bien, ya voy.
 
 132
 00:09:27,150 --> 00:09:29,611
@@ -640,17 +640,17 @@ Ernest y Tova Borgnine.
 
 136
 00:09:37,119 --> 00:09:39,538
--¿Cómo íbamos a resistir?
--¡Magnífico!
+-Â¿CÃ³mo Ã­bamos a resistir?
+-Â¡MagnÃ­fico!
 
 137
 00:09:40,038 --> 00:09:43,250
--Monica, ¿qué tal el tobillo?
--Está...
+-Monica, Â¿quÃ© tal el tobillo?
+-EstÃ¡...
 
 138
 00:09:44,668 --> 00:09:48,839
-¿Por qué no les dices?
+Â¿Por quÃ© no les dices?
 Al fin y al cabo es tu tobillo.
 
 139
@@ -660,32 +660,32 @@ Gracias.
 
 140
 00:09:52,426 --> 00:09:56,138
-Por qué no se sientan
+Por quÃ© no se sientan
 y les traeremos las copas.
 
 141
 00:09:56,346 --> 00:09:59,558
-Bien. ¡Pero ya!
+Bien. Â¡Pero ya!
 
 142
 00:10:02,644 --> 00:10:07,941
-¿Por qué no les decimos quiénes
+Â¿Por quÃ© no les decimos quiÃ©nes
 somos? No va a pasar nada.
 
 143
 00:10:08,150 --> 00:10:12,362
--¡Nos meteremos en problemas!
--¡No seas miedosa!
+-Â¡Nos meteremos en problemas!
+-Â¡No seas miedosa!
 
 144
 00:10:12,571 --> 00:10:16,450
-¿Miedosa?
+Â¿Miedosa?
 Disculpa, pero eso es ser realista.
 
 145
 00:10:16,617 --> 00:10:18,952
--¿Y?
--Todavía parecen ser normales.
+-Â¿Y?
+-TodavÃ­a parecen ser normales.
 
 146
 00:10:19,161 --> 00:10:20,495
@@ -698,7 +698,7 @@ del hospital...
 
 148
 00:10:24,124 --> 00:10:29,379
-Cálmate. Mira a tu alrededor.
+CÃ¡lmate. Mira a tu alrededor.
 No veo altares paganos.
 
 149
@@ -709,63 +709,63 @@ rincones. Haz esto:
 150
 00:10:39,097 --> 00:10:43,477
 No vamos a hacer eso.
-¡A veces te portas como un niña!
+Â¡A veces te portas como un niÃ±a!
 
 151
 00:10:43,685 --> 00:10:46,938
--No soy una niña.
+-No soy una niÃ±a.
 -En serio. Cada vez que...
 
 152
 00:10:47,147 --> 00:10:50,275
 -Te crees toda una princesa.
--¿Sabes qué?
+-Â¿Sabes quÃ©?
 
 153
 00:10:50,484 --> 00:10:56,156
-Cada día te comportas más y más
+Cada dÃ­a te comportas mÃ¡s y mÃ¡s
 como tu madre. Con permiso.
 
 154
 00:10:56,323 --> 00:10:57,824
-Ya está.
+Ya estÃ¡.
 
 155
 00:10:59,117 --> 00:11:01,745
-Qué lindo lugar.
-¿Desde cuándo vives aquí?
+QuÃ© lindo lugar.
+Â¿Desde cuÃ¡ndo vives aquÃ­?
 
 156
 00:11:01,953 --> 00:11:04,915
-Desde hace unos seis años.
+Desde hace unos seis aÃ±os.
 
 157
 00:11:05,123 --> 00:11:08,418
-Y Rachel se mudó hace unos meses.
+Y Rachel se mudÃ³ hace unos meses.
 
 158
 00:11:09,169 --> 00:11:14,633
-Iba a casarme, pero dejé
+Iba a casarme, pero dejÃ©
 al pobre tipo ante el altar.
 
 159
 00:11:17,844 --> 00:11:19,596
--¿Es serio?
--Sí.
+-Â¿Es serio?
+-SÃ­.
 
 160
 00:11:19,805 --> 00:11:22,265
-¡Sí, sé que fue algo muy egoísta,
+Â¡SÃ­, sÃ© que fue algo muy egoÃ­sta,
 pero...
 
 161
 00:11:22,432 --> 00:11:24,810
-...bueno, así soy yo!
+...bueno, asÃ­ soy yo!
 
 162
 00:11:29,147 --> 00:11:32,567
--Por qué no pruebas este hummus.
--Monica, ¿y tú qué haces?
+-Por quÃ© no pruebas este hummus.
+-Monica, Â¿y tÃº quÃ© haces?
 
 163
 00:11:32,776 --> 00:11:36,071
@@ -773,30 +773,30 @@ Soy cocinera de un restaurante.
 
 164
 00:11:36,279 --> 00:11:39,324
--Qué bien.
--Sí, así es.
+-QuÃ© bien.
+-SÃ­, asÃ­ es.
 
 165
 00:11:39,908 --> 00:11:45,664
-Más que nada porque así puedo
-dar órdenes a gritos. Me encanta.
+MÃ¡s que nada porque asÃ­ puedo
+dar Ã³rdenes a gritos. Me encanta.
 
 166
 00:11:47,290 --> 00:11:51,044
--Qué sabroso este hummus.
+-QuÃ© sabroso este hummus.
 -Gracias a Dios por los garbanzos.
 
 167
 00:11:55,757 --> 00:11:59,803
-¡Dios mío! ¡Soy una ingrata!
+Â¡Dios mÃ­o! Â¡Soy una ingrata!
 
 168
 00:12:04,057 --> 00:12:05,642
-Así es.
+AsÃ­ es.
 
 169
 00:12:06,601 --> 00:12:10,814
-¿Alguna vez mencioné que
+Â¿Alguna vez mencionÃ© que
 de joven yo era una vaca?
 
 170
@@ -806,11 +806,11 @@ Yo, antes me orinaba en la cama.
 171
 00:12:15,986 --> 00:12:19,030
 Yo aprovecho mis senos
-para llamar la atención.
+para llamar la atenciÃ³n.
 
 172
 00:12:19,281 --> 00:12:21,116
-¡Ambas hacemos eso!
+Â¡Ambas hacemos eso!
 
 173
 00:12:35,422 --> 00:12:38,175
@@ -819,16 +819,16 @@ Monica y Rachel.
 
 174
 00:12:39,259 --> 00:12:42,429
-Sí, un segundito.
-Rachel, es tu papá.
+SÃ­, un segundito.
+Rachel, es tu papÃ¡.
 
 175
 00:12:45,348 --> 00:12:49,311
-Aló, papá. No, no, soy yo.
+AlÃ³, papÃ¡. No, no, soy yo.
 
 176
 00:12:49,853 --> 00:12:52,522
-Escucha, papá.
+Escucha, papÃ¡.
 No puedo hablar ahora.
 
 177
@@ -842,7 +842,7 @@ Hay algo que he querido decirte.
 179
 00:12:58,695 --> 00:13:02,073
 -Con permiso.
--¿Recuerdas nuestro primer año?
+-Â¿Recuerdas nuestro primer aÃ±o?
 
 180
 00:13:02,282 --> 00:13:05,702
@@ -855,43 +855,43 @@ Papi...
 
 182
 00:13:17,547 --> 00:13:20,675
-¿Papi, por qué? ¿Por qué yo
-me acostaría con Billy Dreskin?
+Â¿Papi, por quÃ©? Â¿Por quÃ© yo
+me acostarÃ­a con Billy Dreskin?
 
 183
 00:13:20,842 --> 00:13:23,220
-¡Su padre intentó arruinar
+Â¡Su padre intentÃ³ arruinar
 tu negocio!
 
 184
 00:13:23,386 --> 00:13:24,971
-¡Estás muerta!
+Â¡EstÃ¡s muerta!
 
 185
 00:13:28,809 --> 00:13:32,979
--Ross, agarró el control remoto otra vez.
+-Ross, agarrÃ³ el control remoto otra vez.
 -Bien.
 
 186
 00:13:33,146 --> 00:13:36,233
-Quizá pueda cambiarlo como antes.
+QuizÃ¡ pueda cambiarlo como antes.
 
 187
 00:13:38,860 --> 00:13:40,904
-O quizá no.
+O quizÃ¡ no.
 
 188
 00:13:42,113 --> 00:13:43,490
-¿Aló?
+Â¿AlÃ³?
 
 189
 00:13:45,909 --> 00:13:47,536
-Sí.
+SÃ­.
 
 190
 00:13:47,702 --> 00:13:51,081
 Bien, espere un segundo.
-Permítame ver si está.
+PermÃ­tame ver si estÃ¡.
 
 191
 00:13:51,289 --> 00:13:55,544
@@ -900,26 +900,26 @@ hay un problema con el formulario.
 
 192
 00:13:55,752 --> 00:13:59,214
--Dios mío, ¿qué hacemos?
--Averigua qué es lo que quieren.
+-Dios mÃ­o, Â¿quÃ© hacemos?
+-Averigua quÃ© es lo que quieren.
 
 193
 00:13:59,381 --> 00:14:01,466
-Está bien.
-No, tú hazlo.
+EstÃ¡ bien.
+No, tÃº hazlo.
 
 194
 00:14:01,925 --> 00:14:04,386
-Aló.
+AlÃ³.
 Habla Monica.
 
 195
 00:14:04,553 --> 00:14:06,096
-¿Sí?
+Â¿SÃ­?
 
 196
 00:14:06,555 --> 00:14:10,767
-Sí, está bien. Iremos ahora mismo.
+SÃ­, estÃ¡ bien. Iremos ahora mismo.
 Gracias.
 
 197
@@ -929,7 +929,7 @@ formularios del hospital.
 
 198
 00:14:15,230 --> 00:14:18,108
--Tienes razón. Esto no vale la pena.
+-Tienes razÃ³n. Esto no vale la pena.
 -Gracias.
 
 199
@@ -943,30 +943,30 @@ Deja que me cambie.
 
 201
 00:14:26,157 --> 00:14:27,742
-¿Hay problemas?
+Â¿Hay problemas?
 
 202
 00:14:28,368 --> 00:14:30,662
-Tu hermana me dejó plantado.
+Tu hermana me dejÃ³ plantado.
 
 203
 00:14:30,829 --> 00:14:34,499
-Ay, no. ¿No te da rabia cuando
+Ay, no. Â¿No te da rabia cuando
 otros te abandonan?
 
 204
 00:14:36,418 --> 00:14:39,546
--¿Intentaste llamarla?
--He intentado durante dos días.
+-Â¿Intentaste llamarla?
+-He intentado durante dos dÃ­as.
 
 205
 00:14:39,796 --> 00:14:42,716
 En el restaurante dijeron
-que está muy ocupada para hablar.
+que estÃ¡ muy ocupada para hablar.
 
 206
 00:14:42,924 --> 00:14:45,594
-¡No puedo creer que me esté evitando!
+Â¡No puedo creer que me estÃ© evitando!
 
 207
 00:15:05,030 --> 00:15:06,364
@@ -974,8 +974,8 @@ Hola.
 
 208
 00:15:09,784 --> 00:15:14,664
--¿Tienes unos minutos?
--Sí. Tan solo estoy trabajando.
+-Â¿Tienes unos minutos?
+-SÃ­. Tan solo estoy trabajando.
 
 209
 00:15:22,923 --> 00:15:24,674
@@ -983,23 +983,23 @@ Entonces...
 
 210
 00:15:26,384 --> 00:15:30,597
--Te tengo un regalo de cumpleaños.
+-Te tengo un regalo de cumpleaÃ±os.
 -Caray, lo recordaste.
 
 211
 00:15:36,186 --> 00:15:39,814
 -Es un termo de Judy Jetson.
--Sí, como el que tú...
+-SÃ­, como el que tÃº...
 
 212
 00:15:40,023 --> 00:15:44,027
-Claro. Ah, yo también
+Claro. Ah, yo tambiÃ©n
 tengo algo para ti.
 
 213
 00:15:44,235 --> 00:15:49,574
--¿Cómo sabías que venía?
--Sí, es cosa de mellizas.
+-Â¿CÃ³mo sabÃ­as que venÃ­a?
+-SÃ­, es cosa de mellizas.
 
 214
 00:15:51,326 --> 00:15:53,370
@@ -1012,50 +1012,50 @@ hecho esto.
 
 216
 00:15:59,417 --> 00:16:03,838
-¿Y qué pasa contigo y Joey?
+Â¿Y quÃ© pasa contigo y Joey?
 
 217
 00:16:04,589 --> 00:16:08,885
-Ah, sí. Él es tan bueno.
-Pero eso ya terminó.
+Ah, sÃ­. Ã‰l es tan bueno.
+Pero eso ya terminÃ³.
 
 218
 00:16:09,761 --> 00:16:11,805
--¿Y él ya sabe eso?
--¿Quién?
+-Â¿Y Ã©l ya sabe eso?
+-Â¿QuiÃ©n?
 
 219
 00:16:12,514 --> 00:16:17,143
 Joey. Debes saber que
-está loco por ti.
+estÃ¡ loco por ti.
 
 220
 00:16:17,352 --> 00:16:20,438
--¿Sí? ¿Y por qué?
--Yo no sé.
+-Â¿SÃ­? Â¿Y por quÃ©?
+-Yo no sÃ©.
 
 221
 00:16:20,647 --> 00:16:25,610
-Así es. Disculpe, ¿no viene con
+AsÃ­ es. Disculpe, Â¿no viene con
 una ensalada este platillo?
 
 222
 00:16:26,987 --> 00:16:28,905
-¿Y vas a llamarlo?
+Â¿Y vas a llamarlo?
 
 223
 00:16:29,114 --> 00:16:31,992
--¿Crees que le gusto?
+-Â¿Crees que le gusto?
 -No. A Joey.
 
 224
 00:16:32,200 --> 00:16:36,997
-¡Ah! No, no. Es muy listo.
-Él solito se dará cuenta.
+Â¡Ah! No, no. Es muy listo.
+Ã‰l solito se darÃ¡ cuenta.
 
 225
 00:16:37,288 --> 00:16:39,499
-¿Quieres probar el pollo?
+Â¿Quieres probar el pollo?
 
 226
 00:16:39,666 --> 00:16:42,085
@@ -1065,12 +1065,12 @@ haya tenido rostro.
 227
 00:16:42,919 --> 00:16:47,132
 -No has cambiado.
--No. Tú tampoco.
+-No. TÃº tampoco.
 
 228
 00:16:50,385 --> 00:16:51,928
 Hola.
-¿Se acuerda de nosotras?
+Â¿Se acuerda de nosotras?
 
 229
 00:16:53,763 --> 00:16:57,559
@@ -1085,54 +1085,54 @@ otro completo.
 231
 00:17:00,520 --> 00:17:05,233
 Porque, como puede ver, de nuevo
-usé el nombre equivocado.
+usÃ© el nombre equivocado.
 
 232
 00:17:05,900 --> 00:17:09,362
 -Porque...
--¡Porque así de bruta eres!
+-Â¡Porque asÃ­ de bruta eres!
 
 233
 00:17:09,821 --> 00:17:13,116
-Así es. Así de bruta soy.
+AsÃ­ es. AsÃ­ de bruta soy.
 
 234
 00:17:13,324 --> 00:17:15,827
-Y pagaré esta cuenta
+Y pagarÃ© esta cuenta
 con un cheque.
 
 235
 00:17:15,994 --> 00:17:18,079
-Su seguro lo pagará todo.
+Su seguro lo pagarÃ¡ todo.
 
 236
 00:17:18,288 --> 00:17:20,999
-Lo sé. Pero yo tampoco
+Lo sÃ©. Pero yo tampoco
 soy muy inteligente.
 
 237
 00:17:23,126 --> 00:17:28,214
 En el peor de los casos:
-Qué pasa si nunca te sientes paternal.
+QuÃ© pasa si nunca te sientes paternal.
 
 238
 00:17:28,423 --> 00:17:32,635
-Qué tal si nunca te sientes
+QuÃ© tal si nunca te sientes
 conectado a tu hijo.
 
 239
 00:17:32,844 --> 00:17:36,473
-Y qué tal si todas sus relaciones
+Y quÃ© tal si todas sus relaciones
 se ven afectadas por eso.
 
 240
 00:17:36,681 --> 00:17:41,770
--¿Y a qué viene todo eso?
--Ojalá lo supiera.
+-Â¿Y a quÃ© viene todo eso?
+-OjalÃ¡ lo supiera.
 
 241
 00:17:44,606 --> 00:17:46,983
-¿Qué le pasa al simio?
+Â¿QuÃ© le pasa al simio?
 
 242
 00:17:47,650 --> 00:17:50,695
@@ -1140,46 +1140,46 @@ Tan solo es una bola de pelo.
 
 243
 00:17:51,654 --> 00:17:55,492
--Muy bien. ¿Quién sigue?
--Tú. Yo hice 43 puntos con "riñón".
+-Muy bien. Â¿QuiÃ©n sigue?
+-TÃº. Yo hice 43 puntos con "riÃ±Ã³n".
 
 244
 00:17:55,658 --> 00:17:59,245
-No. No tienes ningún punto
-con "iñón".
+No. No tienes ningÃºn punto
+con "iÃ±Ã³n".
 
 245
 00:17:59,454 --> 00:18:02,457
-Tenía una "R".
-¿Dónde está mi "R"?
+TenÃ­a una "R".
+Â¿DÃ³nde estÃ¡ mi "R"?
 
 246
 00:18:08,713 --> 00:18:11,800
-¡Tiene que ayudarme!
-¡Mi mono se tragó una "R"!
+Â¡Tiene que ayudarme!
+Â¡Mi mono se tragÃ³ una "R"!
 
 247
 00:18:12,008 --> 00:18:13,551
-¡Saque de aquí a ese animal!
+Â¡Saque de aquÃ­ a ese animal!
 
 248
 00:18:13,718 --> 00:18:17,138
-El hospital de animales está muy lejos.
-Él no respira. No sé qué hacer.
+El hospital de animales estÃ¡ muy lejos.
+Ã‰l no respira. No sÃ© quÃ© hacer.
 
 249
 00:18:17,347 --> 00:18:20,016
--¿Qué pasa?
--Marcel se tragó una letra del juego.
+-Â¿QuÃ© pasa?
+-Marcel se tragÃ³ una letra del juego.
 
 250
 00:18:22,185 --> 00:18:25,396
 Disculpe.
-¡Esto es un hospital para humanos!
+Â¡Esto es un hospital para humanos!
 
 251
 00:18:25,563 --> 00:18:28,191
-Señora, ¡él es una persona!
+SeÃ±ora, Â¡Ã©l es una persona!
 Hasta nombre tiene.
 
 252
@@ -1193,21 +1193,21 @@ soba solito cuando nadie lo ve.
 
 254
 00:18:33,988 --> 00:18:35,740
-Por favor, apiádese.
+Por favor, apiÃ¡dese.
 
 255
 00:18:35,949 --> 00:18:38,201
--Yo lo examinaré.
+-Yo lo examinarÃ©.
 -Gracias.
 
 256
 00:18:38,368 --> 00:18:39,452
--¡Michael!
+-Â¡Michael!
 -Rachel.
 
 257
 00:18:39,619 --> 00:18:40,870
--¿Qué?
+-Â¿QuÃ©?
 -Monica.
 
 258
@@ -1220,7 +1220,7 @@ Urs.
 
 260
 00:18:58,304 --> 00:19:01,724
-¿Qué haces aquí?
+Â¿QuÃ© haces aquÃ­?
 Te he estado llamando.
 
 261
@@ -1235,16 +1235,16 @@ ese "escucha". Lo he usado antes.
 263
 00:19:08,731 --> 00:19:12,360
 -Lo siento.
--No entiendo. ¿Qué pasó?
+-No entiendo. Â¿QuÃ© pasÃ³?
 
 264
 00:19:12,527 --> 00:19:15,446
-¿Qué fue lo que dijiste
+Â¿QuÃ© fue lo que dijiste
 debajo del puente?
 
 265
 00:19:15,697 --> 00:19:17,615
-Sí.
+SÃ­.
 
 266
 00:19:19,075 --> 00:19:21,953
@@ -1258,27 +1258,27 @@ Estaba muy borracha.
 
 268
 00:19:27,125 --> 00:19:31,004
--Tú no bebes.
+-TÃº no bebes.
 -Es cierto, no bebo.
 
 269
 00:19:31,296 --> 00:19:35,341
--Pero me emborraché de ti.
+-Pero me emborrachÃ© de ti.
 -Ah, Urs...
 
 270
 00:19:35,550 --> 00:19:37,260
-Bueno, está bien,
-esto no funcionará.
+Bueno, estÃ¡ bien,
+esto no funcionarÃ¡.
 
 271
 00:19:37,969 --> 00:19:41,681
-¿Por qué?
-¿Es porque soy amigo de Phoebe?
+Â¿Por quÃ©?
+Â¿Es porque soy amigo de Phoebe?
 
 272
 00:19:41,848 --> 00:19:44,684
-¿Y si eso fuera, dejarías de verla?
+Â¿Y si eso fuera, dejarÃ­as de verla?
 
 273
 00:19:46,811 --> 00:19:49,856
@@ -1287,7 +1287,7 @@ No, no puedo hacer eso.
 
 274
 00:19:51,024 --> 00:19:53,943
-Entonces, sí, se debe a Phoebe.
+Entonces, sÃ­, se debe a Phoebe.
 
 275
 00:19:54,694 --> 00:19:57,780
@@ -1308,70 +1308,70 @@ tener que olvidarte.
 
 279
 00:20:11,377 --> 00:20:12,879
-Ya lo sé.
+Ya lo sÃ©.
 
 280
 00:20:18,635 --> 00:20:23,431
-No sé si es porque nuestra
-relación está terminando, o qué...
+No sÃ© si es porque nuestra
+relaciÃ³n estÃ¡ terminando, o quÃ©...
 
 281
 00:20:23,640 --> 00:20:27,977
--...pero luces más linda que nunca.
--¿En serio?
+-...pero luces mÃ¡s linda que nunca.
+-Â¿En serio?
 
 282
 00:20:57,966 --> 00:20:59,759
--¿Pheebs?
--Sí.
+-Â¿Pheebs?
+-SÃ­.
 
 283
 00:21:10,019 --> 00:21:12,689
-Él se ve tan pequeñito.
+Ã‰l se ve tan pequeÃ±ito.
 
 284
 00:21:12,855 --> 00:21:15,233
 -Nos acabamos de enterar.
--¿Él está bien?
+-Â¿Ã‰l estÃ¡ bien?
 
 285
 00:21:15,441 --> 00:21:17,986
-El médico le sacó la "R".
+El mÃ©dico le sacÃ³ la "R".
 
 286
 00:21:18,236 --> 00:21:21,447
-También le sacó una "M"
+TambiÃ©n le sacÃ³ una "M"
 y una "O".
 
 287
 00:21:22,365 --> 00:21:25,660
-Creo que quería
+Creo que querÃ­a
 deletrear "mono".
 
 288
 00:21:31,833 --> 00:21:35,503
-El médico dice que estará bien.
-Ahora está durmiendo.
+El mÃ©dico dice que estarÃ¡ bien.
+Ahora estÃ¡ durmiendo.
 
 289
 00:21:36,629 --> 00:21:40,216
--¿Entonces ya te sientes paternal?
--No. ¿Por qué?
+-Â¿Entonces ya te sientes paternal?
+-No. Â¿Por quÃ©?
 
 290
 00:21:40,550 --> 00:21:44,470
-Vamos, tú cumpliste.
-Hiciste lo que debías hacer.
+Vamos, tÃº cumpliste.
+Hiciste lo que debÃ­as hacer.
 
 291
 00:21:44,679 --> 00:21:47,890
 -Eso es muy "paternal".
--Mira, está despertando.
+-Mira, estÃ¡ despertando.
 
 292
 00:21:48,057 --> 00:21:50,685
 Oye, amigo.
-¿Cómo estás?
+Â¿CÃ³mo estÃ¡s?
 
 293
 00:22:41,944 --> 00:22:43,946
