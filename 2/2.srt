@@ -1,7 +1,7 @@
 1
 00:00:08,133 --> 00:00:11,103
 Salieron caros
-y le quedar·n chicos en...
+y le quedar√°n chicos en...
 
 2
 00:00:11,261 --> 00:00:13,980
@@ -22,16 +22,16 @@ Hola, Ben.
 
 6
 00:00:25,067 --> 00:00:26,785
-Ay, Dios mÌo.
+Ay, Dios m√≠o.
 
 7
 00:00:26,944 --> 00:00:28,742
-øFue demasiada presiÛn para Èl?
+¬øFue demasiada presi√≥n para √©l?
 
 8
 00:00:30,447 --> 00:00:34,543
-- Vaya, øya tiene hambre?
-- Me temo que sÌ.
+- Vaya, ¬øya tiene hambre?
+- Me temo que s√≠.
 
 9
 00:00:34,701 --> 00:00:36,419
@@ -44,11 +44,11 @@ Enseguida vuelvo.
 
 11
 00:00:42,876 --> 00:00:45,379
-Yo tambiÈn debo irme.
+Yo tambi√©n debo irme.
 
 12
 00:00:48,048 --> 00:00:49,971
-Oigan, øquÈ est·n haciendo?
+Oigan, ¬øqu√© est√°n haciendo?
 
 13
 00:00:50,217 --> 00:00:52,686
@@ -61,40 +61,40 @@ con las cucharas...
 
 15
 00:00:54,972 --> 00:00:56,189
-øNo piensan madurar?
+¬øNo piensan madurar?
 
 16
 00:00:56,390 --> 00:00:59,189
-Es lo m·s natural
+Es lo m√°s natural
 y maravilloso del mundo.
 
 17
 00:00:59,351 --> 00:01:02,400
 Lo sabemos.
-Pero hay un bebÈ succion·ndolo.
+Pero hay un beb√© succion√°ndolo.
 
 18
 00:01:04,565 --> 00:01:09,947
 Se trata del almuerzo de mi hijo.
-M·s vale que se acostumbren.
+M√°s vale que se acostumbren.
 
 19
 00:01:10,112 --> 00:01:13,662
-Si se sienten incÛmodos,
+Si se sienten inc√≥modos,
 hagan preguntas.
 
 20
 00:01:13,824 --> 00:01:16,498
-A Carol no le parecer· mal. Vengan.
+A Carol no le parecer√° mal. Vengan.
 
 21
 00:01:18,495 --> 00:01:20,623
-'øCarol?
-'øCarol?
+'¬øCarol?
+'¬øCarol?
 
 22
 00:01:22,249 --> 00:01:25,924
-Quisiera saber si Joey podrÌa hacerte
+Quisiera saber si Joey podr√≠a hacerte
 una pregunta sobre la lactancia.
 
 23
@@ -103,19 +103,19 @@ Seguro.
 
 24
 00:01:31,883 --> 00:01:33,351
-øDuele?
+¬øDuele?
 
 25
 00:01:34,595 --> 00:01:37,098
-AL principio sÌ, pero ya no.
+AL principio s√≠, pero ya no.
 
 26
 00:01:37,514 --> 00:01:38,561
-øChandler?
+¬øChandler?
 
 27
 00:01:40,142 --> 00:01:43,442
-øY cu·n a menudo puedes hacerlo?
+¬øY cu√°n a menudo puedes hacerlo?
 
 28
 00:01:44,062 --> 00:01:45,484
@@ -127,13 +127,13 @@ Bien, yo tengo una.
 
 30
 00:01:51,069 --> 00:01:54,198
-øSi sopla por uno,
+¬øSi sopla por uno,
 el otro se agranda?
 
 31
 00:02:44,706 --> 00:02:47,630
-- øQuedan mantecadas?
-- SÌ, no recuerdo cu·les.
+- ¬øQuedan mantecadas?
+- S√≠, no recuerdo cu√°les.
 
 32
 00:02:47,793 --> 00:02:49,841
@@ -141,7 +141,7 @@ No te molestes, yo voy.
 
 33
 00:02:50,003 --> 00:02:51,596
-- øAlguien m·s quiere?
+- ¬øAlguien m√°s quiere?
 - No, gracias.
 
 34
@@ -156,7 +156,7 @@ Yo te lo acomodo.
 36
 00:02:55,300 --> 00:02:56,802
 - Ah.
-- Ya est·.
+- Ya est√°.
 
 37
 00:02:56,968 --> 00:02:58,311
@@ -164,7 +164,7 @@ Gracias.
 
 38
 00:03:00,180 --> 00:03:02,057
-°Maldita entrometida!
+¬°Maldita entrometida!
 
 39
 00:03:05,268 --> 00:03:08,272
@@ -177,7 +177,7 @@ que va a renunciar...
 
 41
 00:03:10,691 --> 00:03:13,365
-øQuieren aprovechar? Acomp·Òenme.
+¬øQuieren aprovechar? Acomp√°√±enme.
 
 42
 00:03:13,527 --> 00:03:16,246
@@ -186,55 +186,55 @@ mi abuela al veterinario.
 
 43
 00:03:19,616 --> 00:03:22,995
-- Bueno, yo te acompaÒo.
+- Bueno, yo te acompa√±o.
 - Genial.
 
 44
 00:03:25,664 --> 00:03:27,382
-- Hola, cariÒo.
+- Hola, cari√±o.
 - Hola, amorcito.
 
 45
 00:03:28,458 --> 00:03:31,086
-- Y hola a los dem·s.
+- Y hola a los dem√°s.
 - Hola.
 
 46
 00:03:33,422 --> 00:03:34,548
-øQuÈ vas a hacer?
+¬øQu√© vas a hacer?
 
 47
 00:03:34,715 --> 00:03:37,093
 No puedes ir de compras
-con ella. øQuÈ hay de Rachel?
+con ella. ¬øQu√© hay de Rachel?
 
 48
 00:03:37,968 --> 00:03:40,062
-- øDar· lugar a problemas?
+- ¬øDar√° lugar a problemas?
 - Por favor.
 
 49
 00:03:40,220 --> 00:03:42,143
-øIr·s a Bloomingdale's con Julie?
+¬øIr√°s a Bloomingdale's con Julie?
 
 50
 00:03:42,305 --> 00:03:45,309
-Es como engaÒar a Rachel
+Es como enga√±ar a Rachel
 en su propio templo.
 
 51
 00:03:45,475 --> 00:03:48,445
 - Pero...
-- Monica, te matar·.
+- Monica, te matar√°.
 
 52
 00:03:50,063 --> 00:03:52,782
-°Te matar· como un perro en la calle!
+¬°Te matar√° como un perro en la calle!
 
 53
 00:03:57,320 --> 00:04:00,950
 Dice Jules que
-se van de compras maÒana.
+se van de compras ma√±ana.
 
 54
 00:04:01,116 --> 00:04:04,461
@@ -242,7 +242,7 @@ No es nada del otro mundo...
 
 55
 00:04:04,619 --> 00:04:08,749
-Lo es para mÌ. Es algo fant·stico.
+Lo es para m√≠. Es algo fant√°stico.
 Te lo agradezco mucho.
 
 56
@@ -251,11 +251,11 @@ De nada.
 
 57
 00:04:25,307 --> 00:04:26,604
-øBijan para hombres?
+¬øBijan para hombres?
 
 58
 00:04:27,976 --> 00:04:31,230
-øBijan para hombres?
+¬øBijan para hombres?
 
 59
 00:04:32,939 --> 00:04:34,691
@@ -264,8 +264,8 @@ De nada.
 
 60
 00:04:34,858 --> 00:04:37,111
-- øConociste al chico nuevo?
-- øQuiÈn?
+- ¬øConociste al chico nuevo?
+- ¬øQui√©n?
 
 61
 00:04:37,277 --> 00:04:41,623
@@ -274,11 +274,11 @@ lo llamamos "el del Hombre".
 
 62
 00:04:51,124 --> 00:04:52,546
-øHombre?
+¬øHombre?
 
 63
 00:04:57,339 --> 00:04:59,683
-øQuÈ hace en mi secciÛn?
+¬øQu√© hace en mi secci√≥n?
 
 64
 00:04:59,883 --> 00:05:01,601
@@ -286,15 +286,15 @@ Supongo que no lo sabe.
 
 65
 00:05:01,843 --> 00:05:03,390
-Pues ya lo sabr·.
+Pues ya lo sabr√°.
 
 66
 00:05:04,513 --> 00:05:06,561
-Te veo en un rato, øde acuerdo?
+Te veo en un rato, ¬øde acuerdo?
 
 67
 00:05:09,768 --> 00:05:11,361
-Hola, øquÈ tal?
+Hola, ¬øqu√© tal?
 
 68
 00:05:11,895 --> 00:05:13,613
@@ -302,71 +302,71 @@ Buenas.
 
 69
 00:05:13,772 --> 00:05:15,820
-Oye, sÈ que eres nuevo...
+Oye, s√© que eres nuevo...
 
 70
 00:05:15,982 --> 00:05:19,156
-<i>...pero se supone que desde la secciÛn...</i>
+<i>...pero se supone que desde la secci√≥n...</i>
 
 71
 00:05:19,319 --> 00:05:22,823
-...de jÛvenes hasta
+...de j√≥venes hasta
 la escalera es mi territorio.
 
 72
 00:05:24,491 --> 00:05:26,585
-- øTu territorio?
-- Aj·.
+- ¬øTu territorio?
+- Aj√°.
 
 73
 00:05:27,911 --> 00:05:29,663
-- øBijan para hombres?
+- ¬øBijan para hombres?
 - No, gracias.
 
 74
 00:05:29,830 --> 00:05:31,332
-øHombre?
+¬øHombre?
 
 75
 00:05:31,498 --> 00:05:33,671
-Bueno, la probarÈ.
+Bueno, la probar√©.
 
 76
 00:05:40,423 --> 00:05:41,515
-øDecÌas?
+¬øDec√≠as?
 
 77
 00:05:45,512 --> 00:05:49,562
-Phoebe, escucha. T˙ y yo pasamos
-todo el dÌa de compras.
+Phoebe, escucha. T√∫ y yo pasamos
+todo el d√≠a de compras.
 
 78
 00:05:49,724 --> 00:05:52,102
-- øCÛmo?
+- ¬øC√≥mo?
 - Fuimos de compras y a comer.
 
 79
 00:05:52,269 --> 00:05:54,146
-Est· bien. øY yo quÈ comÌ?
+Est√° bien. ¬øY yo qu√© com√≠?
 
 80
 00:05:54,312 --> 00:05:57,441
 - Una ensalada.
-- Con razÛn no me siento satisfecha.
+- Con raz√≥n no me siento satisfecha.
 
 81
 00:05:58,650 --> 00:05:59,902
-°Hola! øQuÈ tal?
+¬°Hola! ¬øQu√© tal?
 
 82
 00:06:00,068 --> 00:06:02,992
 Fuimos de compras
-y yo comÌ una ensalada.
+y yo com√≠ una ensalada.
 
 83
 00:06:05,240 --> 00:06:07,584
-QuÈ bien.
-øY quÈ compraron?
+Qu√© bien.
+¬øY qu√© compraron?
 
 84
 00:06:08,994 --> 00:06:11,417
@@ -382,8 +382,8 @@ Unas pieles.
 
 87
 00:06:17,752 --> 00:06:20,847
-- øT˙ compraste pieles?
-- SÌ.
+- ¬øT√∫ compraste pieles?
+- S√≠.
 
 88
 00:06:21,423 --> 00:06:25,303
@@ -400,15 +400,15 @@ Pechos.
 
 91
 00:06:36,062 --> 00:06:38,156
-øCompraron pechos?
+¬øCompraron pechos?
 
 92
 00:06:40,233 --> 00:06:41,860
-°Sostenes!
+¬°Sostenes!
 
 93
 00:06:42,694 --> 00:06:43,820
-°Compramos sostenes!
+¬°Compramos sostenes!
 
 94
 00:06:44,779 --> 00:06:47,032
@@ -416,11 +416,11 @@ Compramos sostenes.
 
 95
 00:06:50,118 --> 00:06:53,622
-øBijan para hombres?
+¬øBijan para hombres?
 
 96
 00:06:53,788 --> 00:06:55,586
-øBijan paraî?
+¬øBijan para‚Äù?
 
 97
 00:06:57,125 --> 00:06:58,422
@@ -428,8 +428,8 @@ Annabel.
 
 98
 00:06:58,585 --> 00:07:02,681
-øQuÈ te parece si a la salida
-vamos a tomar un cafÈ?
+¬øQu√© te parece si a la salida
+vamos a tomar un caf√©?
 
 99
 00:07:02,839 --> 00:07:05,262
@@ -438,7 +438,7 @@ tengo otros planes.
 
 100
 00:07:10,472 --> 00:07:12,099
-øEst·s lista, Annabel?
+¬øEst√°s lista, Annabel?
 
 101
 00:07:13,391 --> 00:07:14,859
@@ -446,7 +446,7 @@ Por supuesto.
 
 102
 00:07:16,686 --> 00:07:19,189
-- Quiz·s alguna otra vez.
+- Quiz√°s alguna otra vez.
 - Claro.
 
 103
@@ -456,11 +456,11 @@ vaquero me quita una chica.
 
 104
 00:07:32,911 --> 00:07:34,413
-øBijan para hombres?
+¬øBijan para hombres?
 
 105
 00:07:34,871 --> 00:07:36,498
-°Bijan para hombres!
+¬°Bijan para hombres!
 
 106
 00:07:38,041 --> 00:07:39,964
@@ -468,8 +468,8 @@ Este es el payaso chistoso.
 
 107
 00:07:40,126 --> 00:07:43,756
-Es para despuÈs de la siesta,
-no antes o no se dormir·.
+Es para despu√©s de la siesta,
+no antes o no se dormir√°.
 
 108
 00:07:43,922 --> 00:07:47,392
@@ -478,12 +478,12 @@ Nos llevamos muy bien.
 
 109
 00:07:47,550 --> 00:07:50,850
-Jugamos, nos reÌmos.
-Es como si fuÈsemos padre e hijo.
+Jugamos, nos re√≠mos.
+Es como si fu√©semos padre e hijo.
 
 110
 00:07:52,681 --> 00:07:55,776
-CariÒo, c·lmate.
+Cari√±o, c√°lmate.
 Ross lo atiende muy bien.
 
 111
@@ -497,11 +497,11 @@ Esto es una moneda.
 
 113
 00:08:04,150 --> 00:08:05,527
-Yo se la comprÈ.
+Yo se la compr√©.
 
 114
 00:08:05,694 --> 00:08:07,367
-"Mis mam·s me quieren".
+"Mis mam√°s me quieren".
 
 115
 00:08:10,991 --> 00:08:12,413
@@ -517,24 +517,24 @@ Ah, hola, Jul...
 
 118
 00:08:18,456 --> 00:08:20,003
-°Hola, judÌo!
+¬°Hola, jud√≠o!
 
 119
 00:08:24,838 --> 00:08:26,215
-Est· bien, claro.
+Est√° bien, claro.
 
 120
 00:08:26,381 --> 00:08:29,385
-Fant·stico.
-Nos vemos entonces. AdiÛs.
+Fant√°stico.
+Nos vemos entonces. Adi√≥s.
 
 121
 00:08:29,551 --> 00:08:31,804
-øDijiste "Hola, judÌo"?
+¬øDijiste "Hola, jud√≠o"?
 
 122
 00:08:35,348 --> 00:08:38,272
-SÌ, sÌ, eso dije.
+S√≠, s√≠, eso dije.
 
 123
 00:08:38,435 --> 00:08:40,654
@@ -542,25 +542,25 @@ Era mi amigo Eddie Moskowitz.
 
 124
 00:08:44,941 --> 00:08:47,694
-SÌ, le gusta eso.
+S√≠, le gusta eso.
 Fortalece su fe.
 
 125
 00:08:53,366 --> 00:08:55,334
-°Ben, a cenar!
+¬°Ben, a cenar!
 
 126
 00:08:56,286 --> 00:08:57,663
-Gracias, tÌa Pheebs.
+Gracias, t√≠a Pheebs.
 
 127
 00:08:57,912 --> 00:09:01,462
-øLa pusiste en el microondas?
+¬øLa pusiste en el microondas?
 No se puede hacer eso.
 
 128
 00:09:02,083 --> 00:09:04,506
-Creo saber cÛmo
+Creo saber c√≥mo
 calentar leche materna.
 
 129
@@ -569,19 +569,19 @@ A ver.
 
 130
 00:09:08,214 --> 00:09:10,467
-øQuÈ acabas de hacer?
+¬øQu√© acabas de hacer?
 
 131
 00:09:10,633 --> 00:09:12,431
-Me lamÌ el brazo. øQuÈ?
+Me lam√≠ el brazo. ¬øQu√©?
 
 132
 00:09:12,594 --> 00:09:14,938
-°Es leche materna!
+¬°Es leche materna!
 
 133
 00:09:15,096 --> 00:09:16,348
-øY?
+¬øY?
 
 134
 00:09:16,514 --> 00:09:20,610
@@ -589,12 +589,12 @@ Phoebe, son fluidos de una persona.
 
 135
 00:09:21,436 --> 00:09:24,235
-- øPor quÈ tanto esc·ndalo?
+- ¬øPor qu√© tanto esc√°ndalo?
 - No, no...
 
 136
 00:09:25,482 --> 00:09:27,450
-øQuÈ acabas de hacer?
+¬øQu√© acabas de hacer?
 
 137
 00:09:29,486 --> 00:09:32,911
@@ -603,16 +603,16 @@ la leche materna.
 
 138
 00:09:34,407 --> 00:09:37,331
-- øNi siquiera piensas probarla?
-- °No!
+- ¬øNi siquiera piensas probarla?
+- ¬°No!
 
 139
 00:09:37,494 --> 00:09:39,713
-øNi imaginando que es leche?
+¬øNi imaginando que es leche?
 
 140
 00:09:39,871 --> 00:09:43,216
-Ni con la foto de un niÒo desaparecido
+Ni con la foto de un ni√±o desaparecido
 en el pecho de Carol.
 
 141
@@ -622,18 +622,18 @@ en el pecho de Carol.
 
 142
 00:09:52,050 --> 00:09:54,394
-- øDÛnde est·n todos?
+- ¬øD√≥nde est√°n todos?
 - En el parque.
 
 143
 00:09:54,552 --> 00:09:56,930
-- øDÛnde estabas?
-- Por ahÌ.
+- ¬øD√≥nde estabas?
+- Por ah√≠.
 
 144
 00:09:57,097 --> 00:10:01,398
 Fui a almorzar. Yo solita.
-Un poco de atenciÛn a mi propio ser.
+Un poco de atenci√≥n a mi propio ser.
 
 145
 00:10:02,018 --> 00:10:05,147
@@ -646,29 +646,29 @@ Si quieres, te la puedo prestar.
 
 147
 00:10:08,733 --> 00:10:11,236
-- Ah, aquÌ est·n tus llaves.
+- Ah, aqu√≠ est√°n tus llaves.
 - Gracias.
 
 148
 00:10:12,570 --> 00:10:14,493
-øMon?
+¬øMon?
 
 149
 00:10:14,656 --> 00:10:18,502
 Si almorzaste sola,
-øcÛmo es que te costÛ 53 dÛlares?
+¬øc√≥mo es que te cost√≥ 53 d√≥lares?
 
 150
 00:10:21,830 --> 00:10:24,083
-øSabes lo que debe haber pasado?
+¬øSabes lo que debe haber pasado?
 
 151
 00:10:24,249 --> 00:10:27,173
-Me robaron la tarjeta de crÈdito.
+Me robaron la tarjeta de cr√©dito.
 
 152
 00:10:28,002 --> 00:10:30,346
-øY te pusieron el recibo
+¬øY te pusieron el recibo
 en el bolsillo?
 
 153
@@ -682,27 +682,27 @@ Es excelente.
 
 155
 00:10:37,971 --> 00:10:40,895
-øQuÈ pasa contigo?
-øCon quiÈn almorzaste?
+¬øQu√© pasa contigo?
+¬øCon qui√©n almorzaste?
 
 156
 00:10:41,099 --> 00:10:42,476
 - Con Judy.
-- øQuiÈn?
+- ¬øQui√©n?
 
 157
 00:10:42,642 --> 00:10:45,145
-- Julie. øJody?
-'øCÛmo?
+- Julie. ¬øJody?
+'¬øC√≥mo?
 
 158
 00:10:46,813 --> 00:10:50,534
-- øEstuviste con Julie?
+- ¬øEstuviste con Julie?
 - Escucha.
 
 159
 00:10:50,692 --> 00:10:53,320
-Al principio, yo solo querÌa
+Al principio, yo solo quer√≠a
 ser amable con ella...
 
 160
@@ -713,12 +713,12 @@ la novia de mi hermano.
 161
 00:10:56,531 --> 00:10:59,751
 Y luego una cosa
-llevÛ a la otra...
+llev√≥ a la otra...
 
 162
 00:10:59,909 --> 00:11:02,788
 ...y cuando nos dimos cuenta,
-est·bamos...
+est√°bamos...
 
 163
 00:11:03,246 --> 00:11:04,919
@@ -735,12 +735,12 @@ Lo hicimos una sola vez.
 
 166
 00:11:16,718 --> 00:11:18,516
-No significÛ nada para mÌ.
+No signific√≥ nada para m√≠.
 
 167
 00:11:20,013 --> 00:11:21,811
-- SÌ, claro. CÛmo no.
-- °De verdad!
+- S√≠, claro. C√≥mo no.
+- ¬°De verdad!
 
 168
 00:11:21,973 --> 00:11:24,852
@@ -749,35 +749,35 @@ pensando en ti.
 
 169
 00:11:27,854 --> 00:11:32,109
-Oye, lo lamento, øde acuerdo?
-No querÌa que te enteraras.
+Oye, lo lamento, ¬øde acuerdo?
+No quer√≠a que te enteraras.
 
 170
 00:11:32,275 --> 00:11:35,996
-°Ay, por favor!
-°QuerÌas que te pescara!
+¬°Ay, por favor!
+¬°Quer√≠as que te pescara!
 
 171
 00:11:36,446 --> 00:11:37,698
-°No es cierto!
+¬°No es cierto!
 
 172
 00:11:37,906 --> 00:11:40,329
-øLo dejaste aquÌ sin querer?
+¬øLo dejaste aqu√≠ sin querer?
 
 173
 00:11:41,409 --> 00:11:45,130
-øNo se te ocurriÛ pensar
+¬øNo se te ocurri√≥ pensar
 que soy capaz de semejante torpeza?
 
 174
 00:11:47,040 --> 00:11:49,338
-Est· bien, Monica.
+Est√° bien, Monica.
 Necesito saber una sola cosa.
 
 175
 00:11:53,129 --> 00:11:55,177
-øFuiste a Bloomingdale's con ella?
+¬øFuiste a Bloomingdale's con ella?
 
 176
 00:12:05,099 --> 00:12:07,978
@@ -790,16 +790,16 @@ estar contigo en este momento.
 
 178
 00:12:22,951 --> 00:12:24,123
-Hola, øquiÈn habla?
+Hola, ¬øqui√©n habla?
 
 179
 00:12:24,285 --> 00:12:27,459
-Hola, Joanne. øEst· Rachel?
+Hola, Joanne. ¬øEst√° Rachel?
 Soy Monica.
 
 180
 00:12:28,539 --> 00:12:30,837
-SÌ, ya sÈ que hice algo horrible.
+S√≠, ya s√© que hice algo horrible.
 
 181
 00:12:31,292 --> 00:12:33,920
@@ -818,33 +818,33 @@ Hola, Steve.
 
 184
 00:12:44,722 --> 00:12:45,939
-øCÛmo les fue?
+¬øC√≥mo les fue?
 
 185
 00:12:46,099 --> 00:12:48,818
-Yo probÈ la leche
-y Ross se puso histÈrico.
+Yo prob√© la leche
+y Ross se puso hist√©rico.
 
 186
 00:12:48,977 --> 00:12:50,854
-No me puse histÈrico.
+No me puse hist√©rico.
 
 187
 00:12:51,020 --> 00:12:54,149
-- øPor quÈ te pusiste histÈrico?
+- ¬øPor qu√© te pusiste hist√©rico?
 - Porque sale del pecho.
 
 188
 00:12:55,275 --> 00:12:56,948
-°Es un asco!
+¬°Es un asco!
 
 189
 00:12:57,110 --> 00:12:58,657
-øLa leche de mi pecho es un asco?
+¬øLa leche de mi pecho es un asco?
 
 190
 00:13:00,530 --> 00:13:02,498
-Esto ser· divertido.
+Esto ser√° divertido.
 
 191
 00:13:04,492 --> 00:13:06,369
@@ -859,7 +859,7 @@ la leche materna no es para adultos.
 193
 00:13:10,331 --> 00:13:13,710
 <i>Claro que el envase
-gusta tanto a adultos como a niÒos.</i>
+gusta tanto a adultos como a ni√±os.</i>
 
 194
 00:13:15,920 --> 00:13:18,924
@@ -868,7 +868,7 @@ No pasa nada.
 
 195
 00:13:19,090 --> 00:13:21,559
-Vamos, pruÈbala.
+Vamos, pru√©bala.
 
 196
 00:13:21,718 --> 00:13:23,561
@@ -877,7 +877,7 @@ La respuesta es no.
 197
 00:13:24,345 --> 00:13:25,517
 - Vamos.
-- PruÈbala.
+- Pru√©bala.
 
 198
 00:13:25,680 --> 00:13:28,308
@@ -891,8 +891,8 @@ Es como...
 
 200
 00:13:31,561 --> 00:13:33,689
-- øComo quÈ?
-- Jugo de melÛn.
+- ¬øComo qu√©?
+- Jugo de mel√≥n.
 
 201
 00:13:33,855 --> 00:13:35,402
@@ -912,12 +912,12 @@ Cielos, la has probado.
 
 205
 00:13:52,415 --> 00:13:55,385
-Puedes seguir repitiÈndolo,
-pero no dejar· de ser verdad.
+Puedes seguir repiti√©ndolo,
+pero no dejar√° de ser verdad.
 
 206
 00:14:03,217 --> 00:14:04,639
-Dame el biberÛn.
+Dame el biber√≥n.
 
 207
 00:14:10,433 --> 00:14:11,935
@@ -943,33 +943,33 @@ por tu vestimenta.
 212
 00:14:49,764 --> 00:14:53,519
 O porque el tipo es tan bueno
-que quieren poner m·s gente.
+que quieren poner m√°s gente.
 
 213
 00:14:54,060 --> 00:14:56,984
-Se est· acabando
-dos frascos por dÌa.
+Se est√° acabando
+dos frascos por d√≠a.
 
 214
 00:14:59,273 --> 00:15:00,695
-øY a ti quÈ?
+¬øY a ti qu√©?
 
 215
 00:15:01,526 --> 00:15:04,871
-Eres un actor. Es el trabajo del dÌa.
-No deberÌa afectarte.
+Eres un actor. Es el trabajo del d√≠a.
+No deber√≠a afectarte.
 
 216
 00:15:05,071 --> 00:15:07,574
-Lo sÈ, pero yo era el mejor.
+Lo s√©, pero yo era el mejor.
 
 217
 00:15:07,782 --> 00:15:10,911
-øSabes algo? Me gustaba ser el mejor.
+¬øSabes algo? Me gustaba ser el mejor.
 
 218
 00:15:15,456 --> 00:15:17,333
-Quiz·s deberÌa abandonarlo-.
+Quiz√°s deber√≠a abandonarlo-.
 
 219
 00:15:17,500 --> 00:15:20,674
@@ -982,41 +982,41 @@ Si haces eso...
 
 221
 00:15:22,880 --> 00:15:26,976
-...tarde o temprano llegar· alguien
-que rebane queso mejor que t˙.
+...tarde o temprano llegar√° alguien
+que rebane queso mejor que t√∫.
 
 222
 00:15:29,053 --> 00:15:30,600
-øY entonces adÛnde huir·s?
+¬øY entonces ad√≥nde huir√°s?
 
 223
 00:15:30,763 --> 00:15:32,811
-- Tienes razÛn.
-- Por supuesto que tengo razÛn.
+- Tienes raz√≥n.
+- Por supuesto que tengo raz√≥n.
 
 224
 00:15:32,974 --> 00:15:35,523
-MuÈstrale de quÈ est·s hecho.
+Mu√©strale de qu√© est√°s hecho.
 Ponte firme.
 
 225
 00:15:35,685 --> 00:15:40,191
-°MuÈstrale que eres el Hombre m·s
-malvado al oeste de la lencerÌa!
+¬°Mu√©strale que eres el Hombre m√°s
+malvado al oeste de la lencer√≠a!
 
 226
 00:15:40,940 --> 00:15:42,988
-- °Voy a hacerlo!
-- °Muy bien!
+- ¬°Voy a hacerlo!
+- ¬°Muy bien!
 
 227
 00:15:44,026 --> 00:15:47,826
-Y ahora, pÌdele una chica
-a la dueÒa de la taberna.
+Y ahora, p√≠dele una chica
+a la due√±a de la taberna.
 
 228
 00:15:50,074 --> 00:15:51,701
-No sÈ quÈ decir.
+No s√© qu√© decir.
 
 229
 00:15:51,868 --> 00:15:54,212
@@ -1028,12 +1028,12 @@ Me siento horrible. De veras.
 
 231
 00:15:56,956 --> 00:15:59,209
-Cu·nto lo siento. øMi espalda
-te lastimÛ el cuchillo?
+Cu√°nto lo siento. ¬øMi espalda
+te lastim√≥ el cuchillo?
 
 232
 00:16:00,042 --> 00:16:01,635
-°Rachel!
+¬°Rachel!
 
 233
 00:16:02,420 --> 00:16:04,923
@@ -1042,13 +1042,13 @@ Pasamos tiempo juntas.
 
 234
 00:16:05,089 --> 00:16:07,183
-- øEs eso tan terrible?
-- SÌ.
+- ¬øEs eso tan terrible?
+- S√≠.
 
 235
 00:16:07,341 --> 00:16:09,935
-- øEs tan terrible?
-- °Si, Monica! °No lo entiendes!
+- ¬øEs tan terrible?
+- ¬°Si, Monica! ¬°No lo entiendes!
 
 236
 00:16:10,094 --> 00:16:11,812
@@ -1056,7 +1056,7 @@ No le basta con robarme al hombre...
 
 237
 00:16:12,054 --> 00:16:14,557
-...que deberÌa estar conmigo...
+...que deber√≠a estar conmigo...
 
 238
 00:16:15,016 --> 00:16:16,063
@@ -1068,15 +1068,15 @@ No le basta con robarme al hombre...
 
 240
 00:16:19,812 --> 00:16:22,565
-Ahora est· separ·ndote de mÌ.
+Ahora est√° separ√°ndote de m√≠.
 
 241
 00:16:24,567 --> 00:16:25,989
-øA mÌ?
+¬øA m√≠?
 
 242
 00:16:26,152 --> 00:16:28,120
-øDe quÈ hablas?
+¬øDe qu√© hablas?
 
 243
 00:16:28,279 --> 00:16:30,748
@@ -1093,7 +1093,7 @@ Querida.
 
 246
 00:16:36,787 --> 00:16:39,085
-T˙ eres mi...
+T√∫ eres mi...
 
 247
 00:16:39,790 --> 00:16:41,963
@@ -1101,25 +1101,25 @@ Y nosotras somos...
 
 248
 00:16:44,420 --> 00:16:47,344
-- °Te quiero mucho!
-- °Yo tambiÈn te quiero!
+- ¬°Te quiero mucho!
+- ¬°Yo tambi√©n te quiero!
 
 249
 00:16:51,719 --> 00:16:55,815
-Oigan, sÈ que esto
+Oigan, s√© que esto
 no tiene nada que ver conmigo.
 
 250
 00:16:55,973 --> 00:16:58,522
-°Pero yo tambiÈn las quiero!
+¬°Pero yo tambi√©n las quiero!
 
 251
 00:17:04,815 --> 00:17:06,658
-Cu·nto necesitaba eso.
+Cu√°nto necesitaba eso.
 
 252
 00:17:08,486 --> 00:17:10,534
-Mira, sÈ que en este momento...
+Mira, s√© que en este momento...
 
 253
 00:17:10,696 --> 00:17:13,290
@@ -1131,34 +1131,34 @@ Pero ella no hizo nada malo.
 
 255
 00:17:16,953 --> 00:17:20,958
-Es solo una chica que conociÛ
-a un sujeto y sale con Èl.
+Es solo una chica que conoci√≥
+a un sujeto y sale con √©l.
 
 256
 00:17:21,624 --> 00:17:24,628
 Y de veras pienso que si le dieras
-una oportunidad, te caerÌa bien.
+una oportunidad, te caer√≠a bien.
 
 257
 00:17:27,171 --> 00:17:28,798
-øNo podrÌas hacer el intento?
+¬øNo podr√≠as hacer el intento?
 
 258
 00:17:29,674 --> 00:17:30,926
-øPor mÌ?
+¬øPor m√≠?
 
 259
 00:17:33,261 --> 00:17:35,389
-HarÌa cualquier cosa por ti.
-°Lo sabes!
+Har√≠a cualquier cosa por ti.
+¬°Lo sabes!
 
 260
 00:17:35,805 --> 00:17:37,933
-°HarÌa cualquier cosa por ti!
+¬°Har√≠a cualquier cosa por ti!
 
 261
 00:17:39,350 --> 00:17:41,569
-°Esperen, esperen!
+¬°Esperen, esperen!
 
 262
 00:17:59,745 --> 00:18:01,292
@@ -1170,16 +1170,16 @@ Dije: "Buenas".
 
 264
 00:18:07,295 --> 00:18:08,547
-Te oÌ.
+Te o√≠.
 
 265
 00:18:10,047 --> 00:18:13,301
-AtenciÛn, todos.
+Atenci√≥n, todos.
 Voy a abrir las puertas.
 
 266
 00:18:13,467 --> 00:18:14,764
-Muchachos, øest·n listos?
+Muchachos, ¬øest√°n listos?
 
 267
 00:18:20,266 --> 00:18:21,609
@@ -1187,25 +1187,25 @@ Listos.
 
 268
 00:18:21,767 --> 00:18:23,235
-SÌ, estoy listo.
+S√≠, estoy listo.
 
 269
 00:19:09,899 --> 00:19:12,277
-°Idiota! °Vaquero est˙pido!
+¬°Idiota! ¬°Vaquero est√∫pido!
 
 270
 00:19:12,443 --> 00:19:14,662
-°Me dejaste ciego!
-°Voy a demandarlos!
+¬°Me dejaste ciego!
+¬°Voy a demandarlos!
 
 271
 00:19:14,820 --> 00:19:18,541
-°Dios mÌo! °Todd!
-øQuÈ diablos has hecho?
+¬°Dios m√≠o! ¬°Todd!
+¬øQu√© diablos has hecho?
 
 272
 00:19:18,699 --> 00:19:20,542
-Lo lamento. °Soy un imbÈcil!
+Lo lamento. ¬°Soy un imb√©cil!
 
 273
 00:19:20,785 --> 00:19:23,083
@@ -1213,7 +1213,7 @@ Lo siento. De verdad lo siento.
 
 274
 00:19:24,246 --> 00:19:26,089
-Cielos, øquÈ pasÛ?
+Cielos, ¬øqu√© pas√≥?
 
 275
 00:19:26,957 --> 00:19:29,460
@@ -1229,8 +1229,8 @@ Tarde o temprano todos...
 
 278
 00:19:35,549 --> 00:19:39,179
-øQuÈ dices si vamos
-por ese cafÈ ahora?
+¬øQu√© dices si vamos
+por ese caf√© ahora?
 
 279
 00:19:39,553 --> 00:19:40,930
@@ -1256,38 +1256,38 @@ siendo una de nosotras dos.
 
 284
 00:20:08,791 --> 00:20:10,793
-Lo sÈ.
+Lo s√©.
 
 285
 00:20:10,960 --> 00:20:14,305
-Tal vez no deberÌa decÌrtelo...
+Tal vez no deber√≠a dec√≠rtelo...
 
 286
 00:20:14,505 --> 00:20:17,634
-...pero t˙ me intimidas mucho.
+...pero t√∫ me intimidas mucho.
 
 287
 00:20:18,676 --> 00:20:21,145
-øDe veras?
-øYo?
+¬øDe veras?
+¬øYo?
 
 288
 00:20:21,303 --> 00:20:23,180
-Cielos, øbromeas?
+Cielos, ¬øbromeas?
 
 289
 00:20:23,347 --> 00:20:25,190
-<i>Ross est· loco por ti...</i>
+<i>Ross est√° loco por ti...</i>
 
 290
 00:20:25,349 --> 00:20:28,603
 ...y yo realmente
-querÌa caerte bien y...
+quer√≠a caerte bien y...
 
 291
 00:20:28,769 --> 00:20:31,613
 Es posible que
-solo sean cosas mÌas...
+solo sean cosas m√≠as...
 
 292
 00:20:31,814 --> 00:20:35,318
@@ -1308,16 +1308,16 @@ Bueno.
 
 296
 00:20:55,629 --> 00:20:57,051
-Dios mÌo.
+Dios m√≠o.
 
 297
 00:20:59,133 --> 00:21:02,603
-Cuando t˙ y Ross
+Cuando t√∫ y Ross
 empezaron a salir...
 
 298
 00:21:02,762 --> 00:21:06,232
-...fue sumamente duro para mÌ.
+...fue sumamente duro para m√≠.
 
 299
 00:21:07,099 --> 00:21:12,447
@@ -1327,17 +1327,17 @@ no te voy a aburrir ahora.
 300
 00:21:16,150 --> 00:21:20,656
 Me doy cuenta de lo felices que son
-y quÈ buena pareja hacen.
+y qu√© buena pareja hacen.
 
 301
 00:21:21,864 --> 00:21:25,869
 Y Monica siempre me dice
-que eres tan simp·tica...
+que eres tan simp√°tica...
 
 302
 00:21:26,035 --> 00:21:28,379
-...y °quÈ rabia me da
-cuando tiene razÛn!
+...y ¬°qu√© rabia me da
+cuando tiene raz√≥n!
 
 303
 00:21:30,456 --> 00:21:32,299
@@ -1346,39 +1346,39 @@ cuando tiene razÛn!
 
 304
 00:21:32,458 --> 00:21:36,179
-øTe gustarÌa ir al cine
-alguna vez o algo asÌ?
+¬øTe gustar√≠a ir al cine
+alguna vez o algo as√≠?
 
 305
 00:21:36,337 --> 00:21:39,307
-- SÌ, serÌa estupendo. Me encantarÌa.
-- øEn serio?
+- S√≠, ser√≠a estupendo. Me encantar√≠a.
+- ¬øEn serio?
 
 306
 00:21:39,465 --> 00:21:41,968
-- A mÌ tambiÈn.
+- A m√≠ tambi√©n.
 - Bueno.
 
 307
 00:21:42,134 --> 00:21:43,727
 - Debo irme.
-- SÌ.
+- S√≠.
 
 308
 00:21:43,886 --> 00:21:46,014
-- Nos hablamos m·s tarde.
+- Nos hablamos m√°s tarde.
 - De acuerdo, Julie.
 
 309
 00:21:46,180 --> 00:21:47,853
-- AdiÛs.
-- AdiÛs.
+- Adi√≥s.
+- Adi√≥s.
 
 310
 00:21:55,523 --> 00:21:57,992
-QuÈ maldita manipuladora.
+Qu√© maldita manipuladora.
 
 311
 00:22:29,139 --> 00:22:30,812
-No est· mal.
+No est√° mal.
 
